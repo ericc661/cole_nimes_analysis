@@ -45,7 +45,14 @@ is lowercase, perhaps "My god" is a secular interjection and the speaker
 has instead wronged someone close to him. Either way, the speaker's
 guilt becomes intolerable.
 
-want to draw attention to the term "speaker" I have been using
+This interjection concluding the first stanza marks the first appearance
+of a first-person pronoun, and thus the speaker's first acknowledgement
+of their own identity. However, is the use of the term "speaker"
+presumptuous, if indeed it is true that "nobody speaks" in the hall of
+mirrors? It may be that the first few lines are merely thoughts that we
+have access to, or a sort of narration-without-speech.
+
+Here, bring in the idea of the echoes then transition to below
 
 such self-gaze and self-perception leads to "my god, forgive me" -\> how
 can we reconcile this with everything we were talking about below? ie
@@ -58,10 +65,6 @@ talk about the "internal rhyme" echo, then how can there be an echo if
 etc., 2) unstable/groundless identity (more literal) -- questions the
 existence/being-ness of the speaker. This is like his body being
 nothing.
-
-This interiority is stark: just himself,
-
-then talk about doors and windows
 
 instability of identity -- talk about irony between "nobody
 speaks"/speaker is speaking, which makes the speaker sort of
