@@ -25,25 +25,43 @@ hall of mirrors is trapped and cut off from the exterior, left only with
 the self (or rather, thousands of selves).
 
 If the first line makes it clear that the space confounds the act of
-seeing, the second line equally destabilizes the act of hearing.
+seeing, the second line equally destabilizes the act of hearing: "An
+ember smolders before hollowed cheeks." Crucially, the speaker has moved
+on to describing other details of the environment, but the sound of the
+line remains fixed as "hall of" has given way to "hollowed". This
+echoing of sound mirrors the reflection of image discussed above,
+literally trapping the speaker in a sense of self. Nor does this echoing
+cease. The speaker continues: "Someone empties pockets, loose change and
+keys, / into a locker." Here the internal (off-) rhyme is between
+"pockets" and "locker", both objects which contain and enclose,
+furthering this suffocating sense of introspection. Between this and the
+other echo, "hall of" and "hollowed", which both connote a certain
+emptiness, the speaker becomes frustrated and disoriented, closing out
+the first quatrain with "My god, forgive me." It may be that the
+speaker, having sinned, is put into such an introspective
+torture-chamber by God to reflect on his wrongdoings, before finding it
+intolerable and asking for God's forgiveness. Or, since the "g" in "god"
+is lowercase, perhaps "My god" is a secular interjection and the speaker
+has instead wronged someone close to him. Either way, the speaker's
+guilt becomes intolerable.
 
-talk about ostensibly moving on to a new description but still being
-stuck due to the echo, it's like saying something different but still
-having it sound the same.
+want to draw attention to the term "speaker" I have been using
+
+such self-gaze and self-perception leads to "my god, forgive me" -\> how
+can we reconcile this with everything we were talking about below? ie
+the instability of identity
 
 talk about the "internal rhyme" echo, then how can there be an echo if
 "nobody speaks"
 
 2 possibilities: he is nobody in 2 senses 1) figuratively, unimportant
 etc., 2) unstable/groundless identity (more literal) -- questions the
-existence/being-ness of the speaker.
+existence/being-ness of the speaker. This is like his body being
+nothing.
 
 This interiority is stark: just himself,
 
 then talk about doors and windows
-
-disorienting for both sight and sound -- "nobody speaks" rather than "it
-is silent"
 
 instability of identity -- talk about irony between "nobody
 speaks"/speaker is speaking, which makes the speaker sort of
@@ -52,5 +70,3 @@ reflection of nothing? **Must you be able to see to be seen? This is
 directly related to love, disclosed, repels what it sees. Disclosure is
 shedding light on something, not necessarily having it look back!!!!!
 "Nobody speaks" -- is he nobody?**
-
-enclosed space but also vast
