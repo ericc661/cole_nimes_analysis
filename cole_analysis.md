@@ -78,20 +78,29 @@ present a hypothesis which the speaker tests and rejects. The speaker
 exhibits a more ambitious, explorative tone rather than the primarily
 descriptive one found in the first quatrain. The result of this
 exploration, however, is quite puzzling: darkness is presented as a form
-of love.
-
-Darkness is liked by the speaker because it provides relief from the
-mirrors?
-
-Talk about how darkness is similar to mirrors?
+of love. If we take the speaker's suggestion and replace "love" with
+"darkness" in the previous line, it destabilizes the very notion of
+darkness. What does it mean to disclose darkness, to uncover it and make
+it visible? Darkness cannot be made visible through illumination, or it
+ceases to become darkness. Light is a precondition for vision so we
+cannot say that we truly see darkness, but the speaker's formulation of
+disclosure suggests that the darkness can see us. Therefore darkness,
+simultaneously vast and suffocating, at once eluding illumination yet
+reflective (of touch if not sight), echoes the hall of mirrors
+established in the opening of the poem.
 
 the instability doesn't end: "the body"
 
-the abstract and the tangible/physical are mixed
+move on to this next with regards to the "return" to describing the
+bathhouse: the abstract and the tangible/physical are mixed
 
 something about the bursts of color: green crests, beach towel
 
 definitely mention the mix of ancient and modern
+
+something about rhythm
+
+inverted structure
 
 Works cited to add:
 
