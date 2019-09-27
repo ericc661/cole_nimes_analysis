@@ -84,17 +84,52 @@ darkness. What does it mean to disclose darkness, to uncover it and make
 it visible? Darkness cannot be made visible through illumination, or it
 ceases to become darkness. Light is a precondition for vision so we
 cannot say that we truly see darkness, but the speaker's formulation of
-disclosure suggests that the darkness can see us. Therefore darkness,
-simultaneously vast and suffocating, at once eluding illumination yet
-reflective (of touch if not sight), echoes the hall of mirrors
-established in the opening of the poem.
+disclosure in the previous line suggests that the darkness can see us.
+Therefore darkness, simultaneously vast and suffocating, at once eluding
+illumination yet reflective (of touch if not sight), echoes the hall of
+mirrors established in the opening of the poem. However, this digression
+does not induce another plea for forgiveness in the speaker. Rather, it
+sounds self-assured, measured, and contained, which are sentiments
+evoked by the rhyming of "sees/me", the reciprocal syntax of line 6, and
+the overall structure of these two lines as hypothesis and rejection.
+Perhaps the speaker's self-assuredness in lines 5-6 results from his
+plea for forgiveness in line 4.
+
+Moving past the digression into love and darkness, the speaker returns
+to describing the physical environment. This time, it is not disembodied
+description but rather one closely linked to his own experience and
+physicality. "In the steamroom, inconsolable tears / fall against us. In
+the whirlpool, my arms, rowing through little green crests, help to
+steer / the body, riding against death." The speaker is more at ease
+with the tangible, physical world than he is in the first quatrain as
+his body interacts with the environment, taking his confidence from the
+abstract realm of love and darkness and applying it to the physical
+world of the bathhouse. Yet the physical and the abstract are always
+intertwined in this poem, as "inconsolable tears" take the place of
+water vapor. Perhaps this metaphor broadens the poem's questions about
+perception into questions about agency. Before, love and darkness had
+the ability to sense and respond to sight and touch. Here, the
+"inconsolable tears" seem to fall of their own accord, without the
+prompting of disclosure or touch. In the world of this poem, objects are
+thus invested with the agency of subjects and are not merely reflective
+or reciprocal. In fact, the water in both the steamroom and the
+whirlpool actively reject the semi-passive role of reflection (that is,
+that there must first be something to reflect or respond to): the tears
+cannot be consoled and the whirlpool moves, creating turbulent "little
+green crests" which work to confound narcissistic reflection.
+
+next: transition to talking about instability of identity
+
+"us" and also "the body"
+
+first "us" is communal, second "us" is universal
+
+definitely mention the inverted structure here
 
 the instability doesn't end: "the body"
 
-move on to this next with regards to the "return" to describing the
-bathhouse: the abstract and the tangible/physical are mixed
-
-something about the bursts of color: green crests, beach towel
+something about the bursts of color: green crests, beach towel,
+smoldering ember
 
 definitely mention the mix of ancient and modern
 
