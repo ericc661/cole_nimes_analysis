@@ -8,16 +8,16 @@ Professor Schmidt
 
 Come up with title
 
-In Henri Cole's "The Roman Baths at Nîmes", a public bathhouse provides
-the environment for the speaker to reflect, repent and discover himself.
-Yet the speaker projects his mental anxieties onto this possibly
-imagined bathhouse, creating an introspective, disorienting space. The
-first line reads as follows: "In the hall of mirrors nobody speaks." The
-"hall of mirrors" turns the speaker's gaze back on itself, turning a
-descriptive act into a reflective one. In a hall of mirrors, he is
-constantly reminded of his enclosure: whichever way he turns, he is met
-with an image of himself. Yet this hall is at once claustrophobic and
-agoraphobic, since mirrors pointing opposite each other tend towards
+In Henri Cole's sonnet "The Roman Baths at Nîmes", a public bathhouse
+provides the environment for the speaker to reflect, repent and discover
+himself. Yet the speaker projects his mental anxieties onto this
+possibly imagined bathhouse, creating an introspective, disorienting
+space. The first line reads as follows: "In the hall of mirrors nobody
+speaks." The "hall of mirrors" turns the speaker's gaze back on itself,
+turning a descriptive act into a reflective one. In a hall of mirrors,
+he is constantly reminded of his enclosure: whichever way he turns, he
+is met with an image of himself. Yet this hall is at once claustrophobic
+and agoraphobic, since mirrors pointing opposite each other tend towards
 infinity, duplicating everything in between. Further, the mirrors in
 this hallway replace doors and windows in a regular one, respectively
 markers of opportunity and the outside world. Thus, whoever looks in the
@@ -47,29 +47,54 @@ guilt becomes intolerable.
 
 This interjection concluding the first stanza marks the first appearance
 of a first-person pronoun, and thus the speaker's first acknowledgement
-of their own identity. However, is the use of the term "speaker"
-presumptuous, if indeed it is true that "nobody speaks" in the hall of
-mirrors? It may be that the first few lines are merely thoughts that we
-have access to, or a sort of narration-without-speech.
+of their own identity. However, without the benefit of prior knowledge,
+we are inclined to treat the first three lines as omniscient narration.
+This causes us to question the act of perception: is there an act of
+seeing that cannot be exposed by the hall of mirrors, which turns the
+gaze back on the subject? In other words, what does it mean to see
+without being seen? If the narrator instead invisible, then do they omit
+themselves from the hall of mirrors? What else might the narrator
+obscure from view over the course of the sonnet? Yet it is not only
+visual perception but also auditory perception that falls under
+scrutiny. How are the echoes of "hall of/hollowed" and "pockets/locker"
+audible if not for speech? Then perhaps, "nobody speaks" is true in a
+more literal sense, in that there is speech in the hall of mirrors but
+it comes from some disembodied entity. Though the interjection of "My
+god, forgive me" may work to somewhat ground and materialize the
+identity of the speaker, the beginning of the second quatrain makes it
+clear that the act of perception remains under a critical lens: "Some
+say love, disclosed, repels what it sees, / yet if I touch the darkness,
+it touches me." To "disclose" is to "uncover and expose to view... to
+remove a covering from; to reveal, allow to be seen" (cite OED). Nothing
+in this definition suggests that the thing revealed can respond with its
+own gaze, yet love "repels what it sees" when it is disclosed. Somehow,
+illuminating love not only renders it visible but also makes the
+illuminator visible, suggesting that love and the mirrors from the first
+line play similar reflective roles. Though the speaker provides darkness
+as a counterexample to love repelling its discloser, the reciprocity
+created by the mirrors and love continues in the syntax of the line "yet
+if I touch the darkness, it touches me." Taken together, these two lines
+present a hypothesis which the speaker tests and rejects. The speaker
+exhibits a more ambitious, explorative tone rather than the primarily
+descriptive one found in the first quatrain. The result of this
+exploration, however, is quite puzzling: darkness is presented as a form
+of love.
 
-Here, bring in the idea of the echoes then transition to below
+Darkness is liked by the speaker because it provides relief from the
+mirrors?
 
-such self-gaze and self-perception leads to "my god, forgive me" -\> how
-can we reconcile this with everything we were talking about below? ie
-the instability of identity
+Talk about how darkness is similar to mirrors?
 
-talk about the "internal rhyme" echo, then how can there be an echo if
-"nobody speaks"
+the instability doesn't end: "the body"
 
-2 possibilities: he is nobody in 2 senses 1) figuratively, unimportant
-etc., 2) unstable/groundless identity (more literal) -- questions the
-existence/being-ness of the speaker. This is like his body being
-nothing.
+the abstract and the tangible/physical are mixed
 
-instability of identity -- talk about irony between "nobody
-speaks"/speaker is speaking, which makes the speaker sort of
-omniscient/body-less, then moves later to "My/I". Then what is the
-reflection of nothing? **Must you be able to see to be seen? This is
-directly related to love, disclosed, repels what it sees. Disclosure is
-shedding light on something, not necessarily having it look back!!!!!
-"Nobody speaks" -- is he nobody?**
+something about the bursts of color: green crests, beach towel
+
+definitely mention the mix of ancient and modern
+
+Works cited to add:
+
+OED disclose
+
+the actual poem
